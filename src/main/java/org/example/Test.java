@@ -1,7 +1,5 @@
 package org.example;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Test {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
@@ -9,5 +7,7 @@ public class Test {
         for (int i = 1; i <= 5; i++) {
             System.out.println("result = " + i);
         }
+
+        System.out.printf("This a test project!");
     }
 }
